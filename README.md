@@ -16,7 +16,6 @@
 
 - ⚙️ I'm currently working on my portfolio !
 - 🐣 I'm currently learning MERN Stack
-- 🧑‍💻 I'm looking to collaborate with communications agency
 - 🏊‍♂️ 2022 Goals : Contribute to an Open Source project
 - 🦊 Fun fact : I play Airsoft but I'm loosing every times
 
