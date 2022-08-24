@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/966681/screenshots/2896143/media/0434fa69ebb7390c11fb38c2cb934353.gif" width="150px"/>
    <div id="badges">
-    <a href="https://www.linkedin.com/in/steven-fabre-35923487/">
+    <a href="https://www.linkedin.com/in/fabresteven/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/StevenFabre6">
