@@ -16,7 +16,7 @@
 
 - ⚙️ I'm currently working on my portfolio !
 - 🐣 I'm currently learning MERN Stack 
-- 🏊‍♂️ 2023 Goals : Move near to Ocean to learn surf IRL
+- 🏄‍♂️ 2023 Goals : Move near to Ocean to learn surf IRL
 - 🦊 Fun fact : I play Airsoft but I'm loosing every times
 
 ## Toolbox
